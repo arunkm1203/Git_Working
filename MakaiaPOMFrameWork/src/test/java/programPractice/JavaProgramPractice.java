@@ -8,7 +8,7 @@ public class JavaProgramPractice {
 	//to square the input array values and added them to the output array in assending order
 	@Test
 	public static void squareValues(){
-		int[] arr1= {-7,-3,-2,1,4,6};
+		int[] arr1= {-8,-3,-2,1,4,6};
 		int[] arr2= new int[arr1.length];
 		int left=0,right=arr1.length-1;
 		for (int i=arr1.length-1;i>=0;i--) {
