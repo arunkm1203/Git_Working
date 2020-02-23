@@ -5,6 +5,7 @@ import java.util.Arrays;
 import org.testng.annotations.Test;
 
 public class JavaProgramPractice {
+	//to square the input array values and added them to the output array in assending order
 	@Test
 	public static void squareValues(){
 		int[] arr1= {-6,-3,-2,1,4,5};
