@@ -28,6 +28,7 @@ public class JavaProgramPractice {
 		}
 		//printing the squares
 		System.out.println(Arrays.toString(arr2));
+		//this is another set of comment
 	}
 }
 
