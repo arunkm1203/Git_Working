@@ -16,12 +16,17 @@ public class JavaProgramPractice {
 			if(abs>arr1[right]) {
 				arr2[i]=arr1[left]*arr1[left];
 				left++;
+				//printing the squares 
+				System.out.println(arr2[i]);
 			}
 			else {
 				arr2[i]=arr1[right]*arr1[right];
 				right--;
+				//print the square
+				System.out.println(arr2[i]);
 			}
 		}
+		//printing the squares
 		System.out.println(Arrays.toString(arr2));
 	}
 }
