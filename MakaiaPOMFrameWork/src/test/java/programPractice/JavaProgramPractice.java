@@ -27,6 +27,7 @@ public class JavaProgramPractice {
 				System.out.println(arr2[i]);
 			}
 		}
+		//printing the squares
 		System.out.println(Arrays.toString(arr2));
 	}
 }
